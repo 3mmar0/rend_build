@@ -1,0 +1,2 @@
+import{z as e}from"./index-CVKxZN6H.js";const r=e.object({service_type:e.string().min(1,"This field is required").optional(),purpose:e.string().min(1,"This field is required").optional(),time:e.string().min(1,"This field is required").optional(),date:e.date({required_error:"This field is required"}),note:e.string().min(1,"This field is required").optional(),reject_reason:e.string().optional(),reject_attachment:e.instanceof(File,{message:"File is required"}).optional()});export{r as R};
+//# sourceMappingURL=request-preview-schema-fNtoi39c.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"Feature.page-Cg6oWDwM.js","sources":["../../src/features/feature/pages/Feature.page.tsx"],"sourcesContent":["import React from 'react';\r\n\r\nconst Feature = () => {\r\n    return <div>Feature</div>;\r\n};\r\n\r\nexport default Feature;\r\n"],"names":["Feature","jsx"],"mappings":"wCAEA,MAAMA,EAAU,IACLC,EAAA,IAAC,OAAI,SAAO,SAAA,CAAA"}

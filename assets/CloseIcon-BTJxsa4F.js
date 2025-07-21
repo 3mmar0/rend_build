@@ -1,0 +1,2 @@
+import{j as o}from"./index-CG21Kl6L.js";const t=({width:r="12",height:s="12",className:e=""})=>o.jsx("span",{className:e,children:o.jsxs("svg",{width:r,height:s,viewBox:"0 0 12 12",fill:"none",xmlns:"http://www.w3.org/2000/svg",children:[o.jsx("path",{d:"M1 10.9999L10.9999 1",stroke:"currentColor",strokeWidth:"2",strokeLinecap:"round",strokeLinejoin:"round"}),o.jsx("path",{d:"M10.9999 10.9999L1 1",stroke:"currentColor",strokeWidth:"2",strokeLinecap:"round",strokeLinejoin:"round"})]})});export{t as C};
+//# sourceMappingURL=CloseIcon-BTJxsa4F.js.map

@@ -1,2 +1,0 @@
-import{j as o}from"./index-CG21Kl6L.js";const e=({width:r="20",height:n="20",className:s=""})=>o.jsx("span",{className:s,children:o.jsxs("svg",{width:r,height:n,viewBox:"0 0 20 20",fill:"none",xmlns:"http://www.w3.org/2000/svg",children:[o.jsx("path",{d:"M5 10H15",stroke:"currentColor",strokeWidth:"1.5",strokeLinecap:"round",strokeLinejoin:"round"}),o.jsx("path",{d:"M10 15V5",stroke:"currentColor",strokeWidth:"1.5",strokeLinecap:"round",strokeLinejoin:"round"})]})});export{e as A};
-//# sourceMappingURL=AddIcon-tb5zEqxV.js.map

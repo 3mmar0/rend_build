@@ -1,0 +1,2 @@
+import{r as p,j as m,p as u,v as d}from"./index-BYyXun5x.js";var f=["a","button","div","form","h2","h3","img","input","label","li","nav","ol","p","span","svg","ul"],v=f.reduce((r,i)=>{const t=p.forwardRef((s,o)=>{const{asChild:e,...a}=s,n=e?u:i;return typeof window<"u"&&(window[Symbol.for("radix-ui")]=!0),m.jsx(n,{...a,ref:o})});return t.displayName=`Primitive.${i}`,{...r,[i]:t}},{});function l(r,i){r&&d.flushSync(()=>r.dispatchEvent(i))}export{v as P,l as d};
+//# sourceMappingURL=index-CV4wEvKw.js.map

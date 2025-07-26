@@ -1,0 +1,1 @@
+{"version":3,"file":"SelfServices.page-WSWvvW6O.js","sources":["../../src/features/selfServices/pages/SelfServices.page.tsx"],"sourcesContent":["export default function SelfServicesPage() {\r\n    return <div>SelfServices</div>;\r\n}\r\n"],"names":["SelfServicesPage","jsx"],"mappings":"wCAAA,SAAwBA,GAAmB,CAChC,OAAAC,EAAA,IAAC,OAAI,SAAY,cAAA,CAAA,CAC5B"}

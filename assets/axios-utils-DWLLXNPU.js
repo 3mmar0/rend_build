@@ -1,2 +1,0 @@
-import{q as o}from"./index-CG21Kl6L.js";const a=e=>{if(!e)return"";const t=new URLSearchParams(e).toString();return t?`?${t}`:""},p=async({endpoint:e,queryParams:t,config:s})=>{const n=a(t);return await o.get(`${e}${n}`,s)},u=async({endpoint:e,body:t,queryParams:s,config:n})=>{const r=a(s);return await o.post(`${e}${r}`,t,n)},g=async({endpoint:e,queryParams:t,config:s})=>{const n=a(t);return await o.delete(`${e}${n}`,s)};export{u as a,p as b,g as c};
-//# sourceMappingURL=axios-utils-DWLLXNPU.js.map

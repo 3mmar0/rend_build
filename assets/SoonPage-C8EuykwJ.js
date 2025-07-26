@@ -1,2 +1,0 @@
-import{j as e}from"./index-CG21Kl6L.js";const n=()=>e.jsxs("div",{className:"flex flex-col justify-center items-center h-screen text-center",children:[e.jsx("h1",{className:"text-4xl font-bold text-gray-800",children:"Coming Soon"}),e.jsx("p",{className:"text-lg text-gray-600 mt-4",children:"We're working hard to bring you something amazing. Stay tuned!"})]});export{n as default};
-//# sourceMappingURL=SoonPage-C8EuykwJ.js.map

@@ -1,0 +1,2 @@
+import{n as o}from"./index-CmReVniG.js";const a=e=>{if(!e)return"";const t=new URLSearchParams(e).toString();return t?`?${t}`:""},p=async({endpoint:e,queryParams:t,config:n})=>{const s=a(t);return await o.get(`${e}${s}`,n)},u=async({endpoint:e,body:t,queryParams:n,config:s})=>{const r=a(n);return await o.post(`${e}${r}`,t,s)},g=async({endpoint:e,queryParams:t,config:n})=>{const s=a(t);return await o.delete(`${e}${s}`,n)};export{p as a,u as b,g as c};
+//# sourceMappingURL=axios-utils-B-NCjA0r.js.map

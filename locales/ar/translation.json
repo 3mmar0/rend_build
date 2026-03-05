@@ -10,6 +10,7 @@
     "forgot_your_password": "هل نسيت كلمة السر؟",
     "reset_your_password": "إعادة تعيين كلمة السر",
     "login": "دخول",
+    "logout": "تسجيل الخروج",
     "dashboard": "لوحة التحكم",
     "cars": "الأسطول",
     "maintenance": "الصيانة",

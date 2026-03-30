@@ -56,5 +56,20 @@
     "services": "الخدمات",
     "loans": "القروض",
     "hr_self_services": "خدمات الموظفين",
-    "marketing": "التسويق"
+    "marketing": "التسويق",
+    "departments": "الاقسام",
+    "add_department": "اضافة قسم",
+    "edit_department": "تعديل قسم",
+    "department_details": "تفاصيل القسم",
+    "payroll": "الرواتب",
+    "trainees": "المتدربين",
+    "add_trainee": "إضافة متدرب جديد",
+    "trainee_data": "بيانات المتدرب",
+    "personal_info": "بيانات الشخصية",
+    "education_info": "بيانات التعليم",
+    "training_info": "بيانات التدريب",
+    "training_program": "برنامج التدريب",
+    "training_start_date": "تاريخ بدء التدريب",
+    "training_end_date": "تاريخ انتهاء التدريب",
+    "employees_reviews": "تقييمات الموظفين"
 }

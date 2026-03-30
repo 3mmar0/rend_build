@@ -56,5 +56,20 @@
     "services": "Services",
     "loans": "Loans",
     "hr_self_services": "Employee Services",
-    "marketing": "Marketing"
+    "marketing": "Marketing",
+    "departments": "Departments",
+    "add_department": "Add Department",
+    "edit_department": "Edit Department",
+    "department_details": "Department Details",
+    "payroll": "Payroll",
+    "trainees": "Trainees",
+    "add_trainee": "Add Trainee",
+    "trainee_data": "Trainee Data",
+    "personal_info": "Personal Info",
+    "education_info": "Education Info",
+    "training_info": "Training Info",
+    "training_program": "Training Program",
+    "training_start_date": "Training Start Date",
+    "training_end_date": "Training End Date",
+    "employees_reviews": "Employees Reviews"
 }

@@ -71,5 +71,11 @@
     "training_program": "Training Program",
     "training_start_date": "Training Start Date",
     "training_end_date": "Training End Date",
-    "employees_reviews": "Employees Reviews"
+    "employees_reviews": "Employees Reviews",
+    "holidays_requests": "Holidays Requests",
+    "career_path": "Career Path",
+    "interviews": "Interviews",
+    "applicants": "Applicants",
+    "job": "Jobs",
+    "programs": "Programs"
 }

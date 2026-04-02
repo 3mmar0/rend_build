@@ -71,5 +71,11 @@
     "training_program": "برنامج التدريب",
     "training_start_date": "تاريخ بدء التدريب",
     "training_end_date": "تاريخ انتهاء التدريب",
-    "employees_reviews": "تقييمات الموظفين"
+    "employees_reviews": "تقييمات الموظفين",
+    "holidays_requests": "الاجازات",
+    "career_path": "المسار المهني",
+    "interviews": "المقابلات",
+    "applicants": "المتقدمين",
+    "job": "الوظائف",
+    "programs": "البرامج"
 }

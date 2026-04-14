@@ -1,0 +1,2 @@
+import{h as o}from"./index-Bn1vLBr_.js";const a=e=>{if(!e)return"";const t=new URLSearchParams(e).toString();return t?`?${t}`:""},p=async({endpoint:e,queryParams:t,config:s})=>{const n=a(t);return await o.get(`${e}${n}`,s)},u=async({endpoint:e,body:t,queryParams:s,config:n})=>{const r=a(s);return await o.post(`${e}${r}`,t,n)},g=async({endpoint:e,queryParams:t,config:s})=>{const n=a(t);return await o.delete(`${e}${n}`,s)};export{p as a,u as b,g as c};
+//# sourceMappingURL=axios-utils-Cwcm2ZiS.js.map

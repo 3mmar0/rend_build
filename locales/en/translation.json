@@ -79,5 +79,8 @@
     "job": "Jobs",
     "programs": "Programs",
     "entry_exit": "Entry and Exit",
-    "tasks": "Tasks"
+    "tasks": "Tasks",
+    "access_control": "Access control",
+    "access_control_roles": "Roles",
+    "access_control_permissions": "Permissions"
 }

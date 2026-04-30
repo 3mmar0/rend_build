@@ -79,5 +79,8 @@
     "job": "الوظائف",
     "programs": "البرامج",
     "entry_exit": "الدخول والخروج",
-    "tasks": "المهام"
+    "tasks": "المهام",
+    "access_control": "الصلاحيات والأدوار",
+    "access_control_roles": "الأدوار",
+    "access_control_permissions": "قائمة الصلاحيات"
 }

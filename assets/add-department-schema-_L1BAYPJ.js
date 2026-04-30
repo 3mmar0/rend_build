@@ -1,2 +1,0 @@
-import{z as n}from"./index-Czu58ols.js";const r="0",m=n.object({name:n.string().min(1,"اسم القسم مطلوب").max(255,"الاسم طويل جداً"),description:n.string().optional().nullable(),department_head_id:n.string().optional(),max_employees:n.coerce.number().int().min(1,"الحد الأقصى للموظفين مطلوب (رقم صحيح ≥ 1)")});function s(t){const e=t==null?void 0:t.trim();if(!e||e===r)return null;const i=Number(e);return Number.isFinite(i)&&i>0?i:null}export{m as A,s as h};
-//# sourceMappingURL=add-department-schema-_L1BAYPJ.js.map

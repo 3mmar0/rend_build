@@ -1,2 +1,0 @@
-import{z as e}from"./index-CUWQIu0D.js";const r=e.object({employee_id:e.string().min(1,"Employee name field is required."),date:e.date({required_error:"Date is required"}),check_in:e.string().min(1,"Check in is required"),check_out:e.string().min(1,"Check out time is required"),status:e.string().min(1,"Status is required"),notes:e.string().optional().nullable()});export{r as A};
-//# sourceMappingURL=add-attendance-schema-aPOtEAE0.js.map

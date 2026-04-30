@@ -82,5 +82,6 @@
     "tasks": "Tasks",
     "access_control": "Access control",
     "access_control_roles": "Roles",
-    "access_control_permissions": "Permissions"
+    "access_control_permissions": "Permissions",
+    "access_control_user_roles": "Assign roles to users"
 }

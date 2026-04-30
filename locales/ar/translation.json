@@ -82,5 +82,6 @@
     "tasks": "المهام",
     "access_control": "الصلاحيات والأدوار",
     "access_control_roles": "الأدوار",
-    "access_control_permissions": "قائمة الصلاحيات"
+    "access_control_permissions": "قائمة الصلاحيات",
+    "access_control_user_roles": "تعيين الأدوار للمستخدمين"
 }
